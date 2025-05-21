@@ -101,7 +101,7 @@ Duoc UC - Sede Puerto Montt
 
 ---
 ```
-> _"El código bien escrito no solo funciona, también se entiende."_
+>_"El código bien escrito no solo funciona, también se entiende."_
 ```
 
 
