@@ -101,8 +101,7 @@ Duoc UC - Sede Puerto Montt
 ✉️ [mar.crisostomo@profesor.duoc.cl]
 
 ---
-```
->_"El código bien escrito no solo funciona, también se entiende."_
-```
+
+
 
 
