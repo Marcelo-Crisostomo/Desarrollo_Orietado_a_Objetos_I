@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.duoc.cl/wp-content/themes/wordpress-duoc-cl/images/logo-duoc.svg" alt="Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)" width="300"/>
+  <img src="https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png" width="300"/>
 </p>
 
 # 🧠 Desarrollo Orientado a Objetos - Duoc UC Online
