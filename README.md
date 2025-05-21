@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.duoc.cl%2Fsummit-ciberseguridad-2022%2F&psig=AOvVaw0deJcNEYqqlTFvk6nkOIg_&ust=1747930696354000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi01rP7tI0DFQAAAAAdAAAAABAE" alt="Duoc UC" width="300"/>
+  <img src="https://www.duoc.cl/wp-content/themes/wordpress-duoc-cl/images/logo-duoc.svg" alt="Duoc UC" width="300"/>
 </p>
 
 # 🧠 Desarrollo Orientado a Objetos - Duoc UC Online
