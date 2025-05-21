@@ -16,22 +16,22 @@ Este repositorio está organizado por **Experiencias de Aprendizaje (EA)**. Cada
 ```
 📦 desarrollo_orientado_a_objetos/
 ┣ 📂 EA1/
-┃ ┣ 📂 semana_1/                # Actividades sobre clases, objetos y encapsulamiento
-┃ ┣ 📂 semana_2/                # Composición de clases y modularidad
-┃ ┣ 📂 semana_3/                # Sistema con múltiples clases
+┃ ┣ 📂 semana_1/                
+┃ ┣ 📂 semana_2/                
+┃ ┣ 📂 semana_3/                
 ┣ 📂 EA2/
-┃ ┣ 📂 semana_4/                # Colecciones y lectura desde archivos
-┃ ┣ 📂 semana_5/                # Librería personalizada y distribución
+┃ ┣ 📂 semana_4/               
+┃ ┣ 📂 semana_5/                
 ┣ 📂 EA3/
-┃ ┣ 📂 semana_6/                # Jerarquías con herencia simple
-┃ ┣ 📂 semana_7/                # Polimorfismo y sobreescritura
-┃ ┣ 📂 semana_8/                # Interfaces y colecciones genéricas
+┃ ┣ 📂 semana_6/                
+┃ ┣ 📂 semana_7/                
+┃ ┣ 📂 semana_8/               
 ┣ 📂 EFT/
-┃ ┣ 📂 semana_9/                # Evaluación Final Transversal (proyecto completo)
+┃ ┣ 📂 semana_9/                
 ┣ 📂 recursos_extras/
-┃ ┣ 📜 guías_evaluaciones/      # Pautas, rúbricas y formatos de evaluación
-┃ ┣ 📜 ejemplos_apoyo/          # Código de referencia y casos guía
-┃ ┗ 📜 entregas_formativas_y_sumativas/ # Actividades resueltas o en proceso
+┃ ┣ 📜 guías_evaluaciones/       
+┃ ┣ 📜 ejemplos_apoyo/          
+┃ ┗ 📜 entregas_formativas_y_sumativas/ 
 ┗ README.md
 
 ```
