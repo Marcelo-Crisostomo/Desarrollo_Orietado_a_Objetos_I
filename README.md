@@ -11,27 +11,27 @@ Aquí encontrarás **todos los recursos necesarios** para complementar tu aprend
 
 ## 📁 Estructura del Repositorio
 
-Este repositorio está organizado por **Experiencias de Aprendizaje (EA)**, y dentro de cada una, encontrarás carpetas correspondientes a cada clase:
+Este repositorio está organizado por **Experiencias de Aprendizaje (EA)**. Cada experiencia contiene las actividades correspondientes a una o más semanas. Además, se incluye una carpeta exclusiva para la **Evaluación Final Transversal (EFT)** y una carpeta adicional con recursos complementarios.
 
 ```
-
-📦 desarrollo\_orientado\_a\_objetos/
+📦 desarrollo_orientado_a_objetos/
 ┣ 📂 EA1/
-┃ ┣ 📂 clase\_1/
-┃ ┣ 📂 clase\_2/
-┃ ┗ ...
+┃ ┣ 📂 semana_1/                # Actividades sobre clases, objetos y encapsulamiento
+┃ ┣ 📂 semana_2/                # Composición de clases y modularidad
+┃ ┣ 📂 semana_3/                # Sistema con múltiples clases
 ┣ 📂 EA2/
-┃ ┣ 📂 clase\_1/
-┃ ┣ 📂 clase\_2/
-┃ ┗ ...
+┃ ┣ 📂 semana_4/                # Colecciones y lectura desde archivos
+┃ ┣ 📂 semana_5/                # Librería personalizada y distribución
 ┣ 📂 EA3/
-┃ ┣ 📂 clase\_1/
-┃ ┣ 📂 clase\_2/
-┃ ┗ ...
-┣ 📂 recursos\_extras/
-┃ ┣ 📜 guías\_evaluaciones/
-┃ ┣ 📜 ejemplos\_apoyo/
-┃ ┗ 📜 entregas\_formativas\_y\_sumativas/
+┃ ┣ 📂 semana_6/                # Jerarquías con herencia simple
+┃ ┣ 📂 semana_7/                # Polimorfismo y sobreescritura
+┃ ┣ 📂 semana_8/                # Interfaces y colecciones genéricas
+┣ 📂 EFT/
+┃ ┣ 📂 semana_9/                # Evaluación Final Transversal (proyecto completo)
+┣ 📂 recursos_extras/
+┃ ┣ 📜 guías_evaluaciones/      # Pautas, rúbricas y formatos de evaluación
+┃ ┣ 📜 ejemplos_apoyo/          # Código de referencia y casos guía
+┃ ┗ 📜 entregas_formativas_y_sumativas/ # Actividades resueltas o en proceso
 ┗ README.md
 
 ```
@@ -82,7 +82,8 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
 
 - 🌐 **Cuenta de GitHub activa** (obligatoria)  
   [Crear cuenta en GitHub](https://github.com/signup)  
-  > Tu cuenta será utilizada para clonar repositorios, subir tus avances, y entregar evaluaciones a través de GitHub Classroom o Pull Requests.
+  > Tu cuenta te servirá para clonar repositorios, subir avances, y entregar evaluaciones a través de GitHub. 
+
 
 ---
 
