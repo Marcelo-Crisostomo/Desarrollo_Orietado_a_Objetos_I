@@ -2,7 +2,7 @@
   <img src="https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png" width="300"/>
 </p>
 
-# 🧠 Desarrollo Orientado a Objetos - Duoc UC Online
+# 🧠 Desarrollo Orientado a Objetos I - Duoc UC Online
 
 ¡Bienvenidas y bienvenidos al repositorio oficial de la asignatura **Desarrollo Orientado a Objetos (PRY2202)** impartida en modalidad online por la Escuela de Informática y Telecomunicaciones de Duoc UC!  
 Aquí encontrarás **todos los recursos necesarios** para complementar tu aprendizaje y avanzar en los contenidos de forma autónoma, clara y ordenada.
