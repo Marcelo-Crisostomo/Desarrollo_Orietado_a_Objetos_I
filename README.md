@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
   <img src="https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png" width="300"/>
 </p>
 
