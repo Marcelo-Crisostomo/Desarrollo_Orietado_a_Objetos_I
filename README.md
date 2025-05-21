@@ -97,7 +97,7 @@ Este repositorio es de uso académico. Si deseas aportar mejoras o correcciones,
 **Marcelo Crisóstomo Carrasco**  
 Docente Escuela de Informática y Telecomunicaciones  
 Duoc UC - Sede Puerto Montt  
-✉️ [Tu correo institucional o contacto de LinkedIn]
+✉️ [mar.crisostomo@profesor.duoc.cl]
 
 ---
 ```
