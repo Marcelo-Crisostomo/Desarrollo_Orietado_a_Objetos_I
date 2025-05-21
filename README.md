@@ -68,9 +68,21 @@ Desarrollar soluciones orientadas a objetos aplicando principios fundamentales c
 
 ## 🧩 Requisitos
 
-- Java JDK 17 o superior
-- IDE recomendado: IntelliJ IDEA / Eclipse
-- Git instalado para clonar y versionar el repositorio
+Para trabajar correctamente con los recursos de este repositorio, asegúrate de tener instalado lo siguiente:
+
+- ☕ **Java JDK 17 o superior**  
+  [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
+- 💻 **IDE recomendado: IntelliJ IDEA o NetBeans**  
+  - [Descargar IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/download/)  
+  - [Descargar NetBeans](https://netbeans.apache.org/download/index.html)
+
+- 🧰 **Git instalado para clonar y versionar el repositorio**  
+  [Descargar Git](https://git-scm.com/downloads)
+
+- 🌐 **Cuenta de GitHub activa** (obligatoria)  
+  [Crear cuenta en GitHub](https://github.com/signup)  
+  > Tu cuenta será utilizada para clonar repositorios, subir tus avances, y entregar evaluaciones a través de GitHub Classroom o Pull Requests.
 
 ---
 
