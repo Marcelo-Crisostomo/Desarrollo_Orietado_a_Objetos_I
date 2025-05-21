@@ -88,9 +88,8 @@ Duoc UC - Sede Puerto Montt
 ✉️ [Tu correo institucional o contacto de LinkedIn]
 
 ---
-
+```
 > _"El código bien escrito no solo funciona, también se entiende."_
 ```
 
----
 
