@@ -100,7 +100,6 @@ Docente Escuela de Informática y Telecomunicaciones
 Duoc UC - Sede Puerto Montt  
 ✉️ [mar.crisostomo@profesor.duoc.cl]
 
----
 
 
 
