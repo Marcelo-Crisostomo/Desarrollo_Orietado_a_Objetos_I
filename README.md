@@ -40,7 +40,7 @@ Este repositorio está organizado por **Experiencias de Aprendizaje (EA)**. Cada
 
 ## 📚 Contenidos Incluidos
 
-### ✅ Códigos fuente por clase
+### ✅ Código fuente 
 - Programas desarrollados en clases online.
 - Comentados y organizados por temas y secuencia pedagógica.
 
@@ -60,8 +60,8 @@ Desarrollar soluciones orientadas a objetos aplicando principios fundamentales c
 ## 🚀 ¿Cómo usar este repositorio?
 
 1. Explora la carpeta de tu **Experiencia de Aprendizaje actual** (EA1, EA2, EA3).
-2. Abre la carpeta correspondiente a la clase que estás revisando.
-3. Ejecuta el código en tu IDE Java preferido (se recomienda IntelliJ IDEA o Eclipse).
+2. Abre la carpeta correspondiente a la semana que estás revisando.
+3. Ejecuta el código en IntelliJ Idea.
 4. Revisa los recursos adicionales si estás preparando una evaluación.
 
 ---
@@ -73,9 +73,8 @@ Para trabajar correctamente con los recursos de este repositorio, asegúrate de 
 - ☕ **Java JDK 17 o superior**  
   [Descargar Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 
-- 💻 **IDE recomendado: IntelliJ IDEA o NetBeans**  
+- 💻 **IDE recomendado: IntelliJ IDEA Comunity Edition**  
   - [Descargar IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/download/)  
-  - [Descargar NetBeans](https://netbeans.apache.org/download/index.html)
 
 - 🧰 **Git instalado para clonar y versionar el repositorio**  
   [Descargar Git](https://git-scm.com/downloads)

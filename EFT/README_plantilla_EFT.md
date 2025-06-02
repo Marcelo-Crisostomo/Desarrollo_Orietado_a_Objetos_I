@@ -1,5 +1,5 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
-# 🧠 Evaluación Final Transversal – Programación Orientada a Objetos I (PRY2202)
+# 🧠 Evaluación Final Transversal – Desarrollo Orientado a Objetos I
 
 ## 👤 Autor del proyecto
 - **Nombre completo:** [Escribe aquí tu nombre]
@@ -39,7 +39,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 git clone https://github.com/usuario/repositorio-evaluacion-final.git
 ```
 
-2. Abre el proyecto en IntelliJ IDEA o NetBeans.
+2. Abre el proyecto en IntelliJ IDEA.
 
 3. Verifica que los archivos `.txt` estén correctamente ubicados.
 
@@ -55,7 +55,7 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final 
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
 
 
 
